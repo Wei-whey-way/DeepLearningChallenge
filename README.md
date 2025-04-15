@@ -1,6 +1,6 @@
 # DeepLearningChallenge
 
-# **Animal Competition (15%)**
+# **Animal Competition**
 Use of the Animal dataset (https://cloudstor.aarnet.edu.au/plus/s/cZYtNAeVhWD6uBX). This dataset contains images of 151 different animals.
 
 The dataset contains a total of 6270 images corresponding to the name of animal types.
